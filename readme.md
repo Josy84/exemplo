@@ -1,1 +1,1 @@
-Primeiro repósitório no github.
+Primeiro repositório no github.
